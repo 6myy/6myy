@@ -1,7 +1,7 @@
 <h1> Bienvenue sur mon profil 👋</h1>
 Pour l'instant, il est vide</br>
 Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conception<br><br>
-Co-Fondateur et développeur : ???.com
+Resp. Java sur : hellowork.com/fr-fr/metiers/developpeur-java.html
 
 
 <h2>Langages utilisés</h2>
