@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1> Bienvenue sur mon profil 👋</h1>
+Pour l'instant, il est vierge</br>
+Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conception
 
-<!--
-**6myy/6myy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Langages utilisés</h2>
 
-Here are some ideas to get you started:
+<img src= "https://skillicons.dev/icons?i=java">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact</h2>
+
+|                                                                                                                                 |   Pseudo   |
+:--------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+|<a href="https://discord.com/app" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" alt="Logo discord.com"> </a>| `_itsyuko_` |
