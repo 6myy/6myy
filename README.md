@@ -4,7 +4,7 @@ Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conceptio
 
 <h2>Langages utilisés</h2>
 
-<img src= "https://skillicons.dev/icons?i=html,java">
+<img src= "https://skillicons.dev/icons?i=html,java,javascript">
 
 <h2>Contact</h2>
 
