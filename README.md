@@ -13,4 +13,4 @@ Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conceptio
 |<a href="https://discord.com/app" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" alt="Logo discord.com"> </a>| `_itsyuko_` |
 |<a href="https://twitter.com" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" alt="Logo twitter.com"> </a>| `Just6my_` |
 
-<span>e</span>
+<span>©Copirght ; 6my_</span>
