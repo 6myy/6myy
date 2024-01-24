@@ -7,7 +7,7 @@ Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conceptio
 
 <img src= "https://skillicons.dev/icons?i=html,css,java,javascript,mysql">
 
-<h2>Service</h2>
+<h2>Communication</h2>
 
 |                                                                                                                                 |   Utilisateur   |
 :--------------------------------------------------------------------------------------------------------------------------------:|:----------:|
