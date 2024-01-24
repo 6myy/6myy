@@ -5,7 +5,7 @@ Mais un jour peut-être, vous pourrez y retrouver divers projets de ma conceptio
 
 <h2>Langages utilisés</h2>
 
-<img src= "https://skillicons.dev/icons?i=html,css,java,javascript,mysql">
+<img src= "https://skillicons.dev/icons?i=html,css,java,javascript,mysql,jedis">
 
 <h2>Service</h2>
 
